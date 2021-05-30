@@ -22,4 +22,6 @@
         \n text from the edges of the screen.
       \n Add some spacing between the lines using the lineSpacingMultiplier
         \n property to the TextView</string>
+    <string name="what_is_nickname">What is your Nick Name</string>
+    <string name="done">Done</string>
 </resources>
