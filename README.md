@@ -1,2 +1,2 @@
-# About_Me_AndroidKotlinDeveloperNanodegreeProgram
+# About_Me
 Excercice About Me (Android Kotlin Developer Nanodegree Program)
