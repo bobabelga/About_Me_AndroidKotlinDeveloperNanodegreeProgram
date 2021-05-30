@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me (Android Kotlin Developer Nanodegree Program)</string>
+    <string name="name">Boba Belga</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_txt"> Android Developer Documentation:
+      \n Layouts LinearLayout ScrollView Now
+      it’s your turn to complete this exercise.
+       \n Add a ScrollView with a TextView showing
+      \n information about yourself to the layout.
+        \n Style the TextView with NameStyle,
+      \n and add additional styling to separate the scrollable
+        \n text from the edges of the screen.
+      \n Add some spacing between the lines using the lineSpacingMultiplier
+        \n property to the TextView
+    Android Developer Documentation:
+      \n Layouts LinearLayout ScrollView Now
+      it’s your turn to complete this exercise.
+       \n Add a ScrollView with a TextView showing
+      \n information about yourself to the layout.
+        \n Style the TextView with NameStyle,
+      \n and add additional styling to separate the scrollable
+        \n text from the edges of the screen.
+      \n Add some spacing between the lines using the lineSpacingMultiplier
+        \n property to the TextView</string>
+</resources>
